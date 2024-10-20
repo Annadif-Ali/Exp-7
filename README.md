@@ -1,1 +1,2 @@
 # Exp-7
+The aim of these programs is to explore fundamental concepts of arrays and strings in C++. Through exercises such as printing array elements, finding specific values, calculating sum and average, identifying minimum and maximum values, string declarations, concatenations, reversals, and palindrome checking, learners develop a solid understanding of data handling and manipulation. These foundational skills are crucial for tackling more complex problems and advancing in C++ programming.
